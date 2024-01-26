@@ -33,6 +33,7 @@ p.PlgXStatus 1
 p.PlgCalendar 1
 p.PlgListMaker 1
 p.PlgCliStats 1
+p.PlgIcons 1
 p.PlgBackSnow 1
 p.PlgOpera 1
 p.PlgKDPalyer 1
