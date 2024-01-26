@@ -63,8 +63,11 @@
     <br/>
     <h1>🌏 Полезные ссылки</h1>
 </div>
+
 [Последний релиз](https://github.com/ma3rxofficial/bitbybyte-locid/releases/tag/0.1.2)
+
 [KICQ](https://kicq.ru)
+
 [Народное Достояние Рунета](https://narodweb.ru)
 
 <div id="contacts" align="center">
@@ -72,4 +75,4 @@
     <h1>📩 Связь с автором</h1>
 </div>
 
-[KICQ](https://kicq.ru)]: **3-739-186**
+[KICQ](https://kicq.ru): **3-739-186**
