@@ -1,0 +1,113 @@
+25
+0	Улыбка, :-), :), =), =)), :-)), :)), +), :smile:, *GIGGLING*, *giggling*, *hoho*, *HOHO*, *Hoho*, *THIS*, *this*, *This*
+1	Досада, :-(, :(, +(, =(, :-((, :((, +((, =((, :sad:
+2	Угарно, :-D, :-d, :-D, :D, +D, =D, :-)))), :)))), =)))), :biggrin:, *BIGGRIN*, *LOL*, *shirokaja_ulybka*, *big_smile*, :biggrin:, *SHIROKAJA_ULYBKA*, *BIG_SMILE*, *SHIROKAJA ULYBKA*, *BIG SMILE*, *shirokaja ulybka*, *big smile*
+3	Насмешка, *JOKINGLY*, *jokingly*, *Jokingly*, :o), *SARCASTIC*, *Sarcastic*, *sarcastic*, *JOKINGLY*, X-), x-), X), x), *tease*, *jokingly*, *TEASE*, *gibe*, *GIBE*, *Gibe*
+4	Ржунимагу, *ROFL*, ROFL, *Rofl*, *ROFL*, *biggrin*, *rofl*, *BIGGRIN*, *lol*, :-B, :-b, *rofl*, *ROFL*, *rofl*, *ROTFL*, :ROFL:, :rofl:, ROFL, ROFL!, *Rofl*, rofl, :-))))), :-)))))), :))))), :)))))), =))))), =)))))), *lol*, lol, LOL, Lol, *smekh*, *SMEKH*, *laugh*, *LAUGH*
+5	Подмигиваю, ;-), ;), ^_~, :wink:, *girl_wink*, *Girl_wink*, *GIRL_WINK*, *girl wink*, *Girl wink*, *GIRL WINK*, girl_wink
+6	Плачу, :'(, 8(, 8-[, 8-(, 8[, :-<, *WHINING*, *CRY*, *whining*, :'(, :"(, ;-(, ;(, :'-(, ='(, плачу, ПЛАЧУ
+7	Язычок, :-P, :P, :-p, :p, +P, =P, +p, =p, :-b, :b, +b, =b, *DROOLING*, :-P, :P, :p, :-p, =P, =p, *bleh*, *boasting*, *BOASTING*, *Boasting*
+8	Фуууу, *BEEE*, *be-be*, *beee*, *BEEE*, :-\, :-\, :-/, =/, =\, *Beee*, :\, :/, :-/, *:-/*, =-/, фуу, ФУУ
+9	Круто, 8-), 8), B-), B), (H), (h), B-D, BD, B-|
+10	Хз, *DONT_KNOW*, *DONTKNOW*, *UNKNOWN*, *dont know*, *DONTKNOW*, *DONT KNOW*, *unknown, dontknow*, *dont_know*, *DON'T_KNOW*, *DON'T KNOW*, *don't know*, *DON'TKNOW*, don'tknow*, *don't_know*, *Dont_know*, *DONT_KNOW*, *DONTKNOW*, НЕ ЗНАЮ, не знаю, ХЗ, хз, Хз, Не знаю
+11	Бляяя, *WALL*, *DASH*, *wall*, *Wall*, :-|, :-|, :-|, :|, =-|, =|, *STRONG*, *strong*
+12	Приветик, *HELLO*, *hello*, *Hello*, *hello!*, *HELLO!*, *Hello*, *:hello:*, *privet!*, *PRIVET!*, *privet*, *PRIVET*, *HI2*, *hi2*, *privet2*, *PRIVET2*, *hi*, *hi!*, *HI!*, *HI*, *Hi*, *preved*, *Preved*, *PREVED*, *krasavcheg*, *KRASAVCHEG*, ghbdtn, Ghbdtn, GHBDTN
+13	Молодца, *THUMBS UP*, *Thumbs up*, *THUMBSUP*, *GOOD*, (y), (Y), *THUMBS_UP*, *thumbsup*, *thumbs_up*, *thumbs up*, *THUMBS_UP*, *THUMBSUP*, (y), (Y), *up*, *UP*, *thumbs_up*, *thumbsup*
+14	Стесняюсь, :-[, :[, (e), (E), :'), :'-), ='), ;'>, ;-., :blush:, :[, (e), (E), :'), :'-), ='), =[
+15	Окуеть, =-O, =O, =-o, =0, O_O, O_o, o_O, O_0, o_0, 0_O, 0_o, O_, o_, _O, _o, *WOW*, *wow*, *MEGA_SHOK*, *MEGA_SHOCK*, =-O, =-0, =-o, :-o, 8-o, :-O, 8-O, :-0, 8-0, *BLINK*, *blink*, ппц, ППЦ, Ппц, ОХУЕТЬ, Охуеть, охуеть
+16	В губки, :-*, :*, :-{}, :{}, +{}, ={}, ^.^, :kiss:, *KISS*, *chmok*, *CHMOK*, *poceluj*, *POCELUJJ*, *KISS2*, *kiss2*, *KISSS*, *kisss*, *KISS3*, *kiss3*, *KISS4*, *kiss4*, *KISS6*, *kiss6*, =-*, =*
+17	Чмась, *KISSING*, *Kissing*, *kissing*, *GIRLKISS*, *GIRL KISS*, *GIRL_KISS*, *GIRL_KISSED*, *GIRL KISSED*, *Kissing*, *GIRL_KISSING*, *GIRL KISSING*, *I'm_kissing_you..., *celuju*, *CELUJU*, *I'm_kissing_you*, *I'm kissing you..., *I'm kissing you*, *I'M KISSING YOU*, *I'M KISSING YOU..., *I'M_KISSING_YOU*, *I'M_KISSING_YOU..., *kiss_hand*
+18	Чмок, *KISSED*, *kissed*, :"), :"), :-"), *Kissed*
+19	Розочка, @}->--, @}-:--, @>}--, -`---, (F), (f), @}->-, @};-, @>}---, @>--'---, @>--`---, @>}---`---, роза, РОЗА, Роза, розы, Розы, розы, Розочка, розочка
+20	Ромашки, *BOUQUET*, *Nice*, *nice*, *Nice*, *BOUQUET*, *bouquet*, *bucet*, *BUCET*, *BUKET*, *buket*, *flowers*, *flower*, *FLOWERS*, *FLOWER*, *many_flowers*, *MANY_FLOWERS*, *many flowers*, *many flowers*, *Camomiles*, *camomiles*, *CAMOMILES*
+21	Влюблён, *IN LOVE*, *in love*, *IN_LOVE*, *їn love*, *in_love*, *INLOVE*, *inlove*, *In love*, *In Love*, *Whatever9*, *whatever9*, *WHATEVER9*, влюбился, влюбилась, ВЛЮБИЛСЯ, ВЛЮБИЛАСЬ
+22	Счастливый, *GIVE HEART*, *pulse*, *GIVE_HEART*, *give_heart*, *give heart*, *give_heart2*, *I'm_giving_you_my_, *darju_serdce*, *Give heart*, *Give Heart*, *HAPPY*, *happy*
+23	Сердечко, *HEART*, *Heart*, *heart*, *Love2*, *love2*, *LOVE2*, *YOUHEART*, *youheart*
+24	Ангелочек, O:-), O:), O+), O=), 0:-), 0:), 0+), 0=), (A), (a), o:-), АНГЕЛ, Ангел, ангел, АНГЕЛОЧЕК, ангелочек, Ангелочек
+25	Дружба, *FIRST_MOVE*, *first_move*
+26	Котёнок, *PUSS*, *Horosho*, *horosho*, *KISA*, *kisa*, *cat*, *CAT*, *puss*, *PUSSY*, *pussy*, *PUSS*, КОТЁНОК, Котёнок, котёнок, КОТЕНОК, котенок, Котенок, КИСА, киса, Киса, КОТИК, котик, Котик, КОТЁНОЧЕК, котёночек, котеночек, КОТЕНОЧЕК, Котеночек, Котёночек
+27	Любовь, *LOVERS*, *lovers*
+28	Поцелуй, *kiss_man_girl*, *Hug*, *hug*, *HUG*, *Flirt*, *flirt*, *FLIRT*, *d_girl_kiss*, *d girl kiss*, *l_hug*, *l hug*
+29	Кружатся, *Dance_two*, *happy_men_girl*, *dance_two*, *DANCE_TWO*, *Turn*, *turn*, *TURN*
+30	Прости, *SORRY*, *sorry*, :sorry:, *PROSTITE*, *prostite*, :SORRY:, *Sorry*, :-|, ПРОСТИ, Прости, прости, ИЗВИНИ, Извини, извини
+31	Думаю, *SCRATCH*, *scratch*, *Scratch*, *hmmm*, *dumaju*, *DUMAJU*, *I'm_thinking*, *I'M_THINKING*, *I'm thinking*, *I'M THINKING*, *Scratch*
+32	Ток ни кому, :-X, :-x, X:, x:, :-#, :#, *SECRET*, :secret:, *SECRET2*, *secret2*, *tajna*, *it's_a_secret*, *TAJJNA*, *it'_a_secret*, *IT'S A SECRET*, *IT'S_A_SECRET*, СЕКРЕТ, секрет
+33	Дурак, *ERMM*, *ermm*, *fool*, *FOOL*, ermm, ERMM, "ERMM", *Ermm*
+34	Секс, *SEX*, *sex*, *Sex*, *Fuckin*, *FUCKIN*, *fuckin*, *SEX*, *sex*, *seks*, *SEKS*, *FUCKIN*, СЕКС, Секс, секс
+35	УГУ, *YES*, *yes*, *Yes*, *Yes!*, *yes!*, *YES!*
+36	Неа, *NO*, *no*, *No*, НЕА, Неа, неа
+37	Поки, *BYE*, *bye*, *goodbye*, *goodbye!*, *GOODBYE*, *GOODBYE!*, *poka*, *POKA*, *poka!*, *POKA!*, *Bye*
+38	Балда, *PUNISH*, *punish*, *punishment*, *PUNISHMENT*
+39	Засыпаю, *TIRED*, *tired*, *BOREDOM*, |-0, :boredom:
+40	Пасиб, *THANKS*, *thanks*, *THANK*, *thank*, *MERCI*, *merci*, *:thanks:*, *big_thanks*, *spasibo*, *SPASIBO*, *Thanks*, СПАСИБО, спасибо, СПС, спс, СПБ, спб, Спасибо
+41	Оки, *OK*, OK, ok, :OK:, :ok:, *ok*, *Ok*, *oK*, *ok*, *Ok*, *Ok*
+42	Сплю, *LAZY*, *ASLEEP*, *SLEEPING*, *SLEEPY*, *LENIVYJJ*, *LAZY*, *sleep*, *SLEEP*, *lenivyj*, *lazy*, *Lazy*, *SLEEP*, *sleep*, *Sleep*
+43	Айяя яай, ;D, ;-D, ;-d, ;D, *ACUTE*, ;d, *acute*, *warning_you!*, *WARNING_YOU!*
+44	Понты, \m/, \M/, *COOLBOY*, *SYSTEM*, m/, *m/*, *\m/*, :cool:, :yeah:
+45	Порву, >:o, >:O, >+O, >:o, >+o, >=O, >=o, :angry:, *ANGRY*, *threat*, *THREAT*, *ugroza*, *UGROZA*, *agression*, *agressija*, *AGRESSIJA*, *AGRESSION*, *ARRR*, *arrr*
+46	Пишиисчо, *BRAVO*, :BRAVO:, :bravo:, :clapping:, *CLAPPING*, *bravo*, *:BRAVO:*, *:bravo:*
+47	Стоп, *STOP*, *stop*, *Stop*
+48	Жарааа, *FEVER*, *fever*, *zhar*, *ZHAR*, *heat*, *HEAT*
+49	Пардон, *PARDON*, =], :PARDON:, :pardon:, *pardon*, :pardon:, *excuse_me*, *excuse me*, *EXCUSE_ME*, *EXCUSE ME*, :PARDON:, :pardon:, *PARDON*, *pardon*, *Pardon*
+50	Урааа, *YAHOO*, *yahoo*, *YAHOO!*, *Yahoo*, *Yahoo!*, *Yahoo*, *yahoo!*
+51	Прёт, *DANCE*, *dance*, *dance jaga*, *tanec*, *TANEC*, *dance_jaga*, *DANCE_JAGA*, *DANCE JAGA*
+52	Музыка, [:-}, [:}, [:-), [:), *MUSIC*, *Music*, [:}, [=}, [=), *music*, СЛУШАЮ МУЗЫКУ, слушаю музыку, Слушаю музыку
+53	Ку, *KU-KU*, *KOO-KOO*, *ku-ku*, *kuku*, *KUKU*, *kuku2*, *KUKU2*, *ZAWTOROJ*, *zawtoroj*, :ZAWTOROJ:, :zawtoroj:, *koo-koo*, КУ КУ, ку ку, Ку ку
+54	Бухло, *DRINK*, *drink*, *DRINK*, *BEER*, *beer*, :PEPSI:, (B), (b), :beer:, (B), *Drink*, *drunks*, *drink*, *beer*, *DRUNKS*, *martini*, *MARTINI*, *Martini*
+55	Джедай, *DJ*, *dj*
+56	Йу, *YU*, *yu*, *YU*, *yu*, *YOW!*, *yow!*, *Yow!*, *yow!*, *YOW!*
+57	Вии, *V*, *v*, *VICTORY*, *victory*, *Victory*
+58	Попкорн, *POPCORN*, *popcorn*
+59	Хомячу, *FOOD*, (pl), *food*, *eda*, *kushaju*, *eat*, *EAT*, *Eat*, КУШАЮ, Кушаю, кушаю, КУШАТЬ, Кушать, кушать
+60	Писька, *CENSORED*, *cenzored*, *censored*, *CENSORED*, ХУЙ, хуй, Хуй, ПИЗДА, Пизда, пизда, СУКА, Сука, сука, ПИЗДЫ, пизды, Пизды, ХУЮ, Хую, хую, ПИЗДИТЬ, пиздить
+61	Курю, *SMOKE*, *SMOKING*, *smoke*, *DRUGS*, *drugs*, *cool smoke*, *cool_smoke*, *COOL SMOKE*, *COOL_SMOKE*
+62	Алкаш, *ALCOHOLIC*, *alcoholic*, *drink_drunk*, *drink drunk*, АЛКАШ, Алкаш, алкаш
+63	Метать коржи, :-!, :!, :-~, ;-~, :(~, +(~, =(~, :bad:, *SICK*, *DISGUSTED*, *Fie*, *fie*, *FIE*
+64	Безумный, *CRAZY*, *crazy*, *Crazy*, %), %-), :-$, :$, *WACKO*, *wacko*, *Wacko*
+65	Качок, *BB*, *bb*, *STRONG*, *strong*
+66	Ботан, *BOTAN*, *botan*, *clever*, *Clever*, *CLEVER*
+67	Самоубийство, *SUICIDE*, *suicide*, *russian_roulette*, *SHOT*, *russian roulette*, *shot*, :-@, *mega_shok*, *MEGA_SHOK*, *ubey sebya*, *UBEY SEBYA*, X-), X), *HANG*, *hang*
+68	Поиск, *BINOCLE*, *binocle*, *SEARCH*, *search*, *Search*, *SEARCHING*
+69	Читаю, *read*, *READ*, *READING*, *reading*, *reads*, *READS*, *NEWSPAPER*, *newspaper*, ЧИТАЮ, читаю, Читаю
+70	Замёрз, *soldly*, *kholodno*, *cold*, *COLD*, *COLDLY*, *KHOLODNO*, *ZAMERZ*, *coldly*, ЗАМЁРЗ, Замёрз, замёрз, ЗАМЕРЗ, Замерз, замерз, ЗАМЁРЗЛА, замёрзла, Замёрзла, ЗАМЕРЗЛА, замерзла, *coldly*, *COLDLY*
+71	Супермэн, *SUPERMAN*, *superman*, *Superman*
+72	Ааааа, *scare*, *Scare*, *SCARE*
+73	Иду, *puh*, *PUH*, *Puh*
+74	Бибика, *play*, *to_become_senile*, *TO_BECOME_SENILE*, *To_become_senile*, *Play*, *PLAY*
+75	Деньги, *money*, *Money*, *MONEY*, *dolg*, *DOLG*, *Dolg*, ДЕНЬГИ, деньги, Деньги
+76	Идея, *idea*, *Idea*, *IDEA*
+77	Бешеная дефка, *girl2*, *GIRL_CRY*, *GIRL_CRAY*, *GIRL CRY*, *GIRL CRAY*, *girl cry*, *girl crying*, *girl_cry*, *girl_crying*, *cry_girl*, *CRY_GIRL*, *cry girl*, *CRY GIRL*, *crying_girl*, *CRYING_GIRL*, *crying girl*, *CRYING GIRL*, *histeric_girl*, *HISTERIC_GIRL*, *HISTERIC*, *histeric*, *panic*, *PANIC*, *Panic*, *PANIK*, *panik*
+78	Ай лав ю, *love_comp*, *Love_comp*
+79	?, *???*, *?*, *??*, ??, ???, *question*, *QUESTION*
+80	!, *!!!*, *!*, *!!*, !, !!, !!!, *EXCLAMATION*, *exclamation*
+81	Смерть, *DEATH*, *death*, *Death*
+82	Палач, *butcher*, *Butcher*, *BUTCHER*
+83	Вампир, *vamp*, *Vamp*, *vampire*, *VAMPIRE*
+84	Сиси, *BREAST*, *breast*, *BREAST*, *breast*, *Breast*, Breast, BREAST, breast
+85	Вако, %), %-), :-$, :$, *WACKO*, *wacko*, *Wacko*, Wacko, wacko, WACKO, *eat_licklips*, *EAT_LICKLIPS*
+86	Попка, *ASS*, *ass*, *ASS*, *ASS*, *ass*, (_|_)
+87	Фига, *fig*, *FIGA*, *figa*, *FIG*, :figa:, :FIGA:, *FIGA*
+88	Фак, *FUCK*, *fuck*, *otsosi*, *OTSOSI*, *Fuck*, *fuck_you*, *Fuck_you*, *FUCK_YOU*, *Fuck*, *fuck*, *FUCK*, Fuck, FUCK, fuck, *fuckyou*, *FUCKYOU*
+89	Помоги, *HELP*, *SOS*, *help*, *HELP_ME*, (help), *HELP*, ПОМОГИТЕ, помогите, Помогите
+90	Фокус, *FOCUS*, *focus*, *Focus*
+91	Дитё, *baby*, *BABY*, *:baby:*, *Baby*
+92	ТУтууу, *locomotive*, *LOCOMOTIVE*, *Locomotive*
+93	Тренеровка, *TRAINING*, *training*, *Training*, *Bar*, *BAR*, *bar*, *Dumbbells*, *dumbblles*, *DUMBBELLS*, *Sport*, *SPORT*, *sport*, *Warsteiner*, *WARSTEINER*, *warsteiner*, Warsteiner, WARSTEINER, warsteiner, Sport, SPORT, sport
+94	Загрузка, *DOWNLOAD*, *download*, *Download*
+95	Формула, *formula1*, *F1*, *f1*, *FORMULA1*, *FORMULA*, *formula*, *formula1*
+96	Злой, *ZLOY*, *zloy*, *Zloy*, :@, ЗЛОЙ, злой, Злой, ЗЛАЯ, злая, Злая
+97	Дьявол, ]:->, }:->, ]:>, }:>, >:-], >:], (6), :diabloablo:, *DIABLO*, *DEVIL*, ДЬЯВОЛ, дьявол, Дьявол
+98	Кофе, *COFFEE*, *coffe*, *COFFEE*, *coffee*, *cofe*, *COFE*, *chay*, *CHAY*, *Chay*, КОФЕ, кофе, Кофе, ЧАЁК, ЧАЕК, чаёк, чаек, Чаек, Чаёк, *tea*, *TEA*, *coffee*, *COFFEE*
+99	Болею, *ILL*, *ill*, *Ill*, БОЛЕЮ, болею, Болею
+100	Олень, *he-moose*, *olen*, *OLEN*, *HE-MOOSE*
+101	Я тебя ЛЮБЛЮ, *I LOVE YOU*, *i love you*, *I Love You*, *I LOVE*, *i love*, *LOVE*, *love*, *Love*
+102	Пишу, *WRITE*, *MAIL*, *POEM*, *poem*, пишу, ПИШУ, Пишу
+103	Пустяки, *pustayki*, *PUSTAYKI*, ПУСТЯКИ, Пустяки, пустяки, МЕЛОЧИ, мелочи, Мелочи
+104	Проспал, *CLOCK*, *clock*, *WAKE_UP*, *wake_up*, ПРОСПАЛ, проспал, Проспал, ПРОСПАЛА, проспала, Проспала
+105	Солнышко, *SUN*, *sun*, *Sun*, СОЛНЫШКО, Солнышко, солнышко, СОЛНЦЕ, солнце, Солнце, *COOL*, *cool*
+106	Мамба, *WASSUP*, *SUP*, *MAMBA*, *wassup*, *sup*, *mamba*
+107	Отдых, *BEACH*, *beach*, отхыхать, ОТДЫХАТЬ, *relax*, *:relax:*
+108	Русский, *RUSSIAN*, *russian*
+109	Злорадствует, *SPITEFUL*, *spiteful*, *GLOAT*, *gloat*
+110	Бомба, @=, *bomb*, *BOMB*, *bomba*, *BOMBA*, бомба, БОМБА
+111	От НЕО, *Neo*, *ot neo*, *OT NEO*, *Ot Neo*, *Ot neo*, *neo*, *NEO*
