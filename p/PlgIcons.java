@@ -10,24 +10,21 @@ import java.io.IOException;
 import java.io.InputStream;
 import javax.microedition.io.Connector;
 import javax.microedition.io.StreamConnection;
-import javax.microedition.lcdui.Command;
-import javax.microedition.lcdui.CommandListener;
+import javax.microedition.lcdui.Canvas;
 import javax.microedition.lcdui.Display;
 import javax.microedition.lcdui.Displayable;
+import javax.microedition.lcdui.Font;
+import javax.microedition.lcdui.Graphics;
 import javax.microedition.lcdui.Image;
-import javax.microedition.lcdui.List;
-import ui.Config;
-import ui.FormEx;
-import ui.Strings;
 
-public class PlgIcons extends PI implements CommandListener {
+public class PlgIcons extends PI {
   private String[] c = new String[] { "", "", "", "", "", "", "", "", "" };
   
-  private static String[] d = Strings.explode("/icons.png|/micons.png|/clicons.png|/prlists.png|/bday.png|/happy.png|/auth.png|/pstatus.png|/xstatus.png", '|');
+  private String[] d = new String[] { "/icons.png", "/micons.png", "/clicons.png", "/prlists.png", "/bday.png", "/happy.png", "/auth.png", "/pstatus.png", "/xstatus.png" };
   
   public Display a;
   
-  public FormEx b;
+  public UI b;
   
   public final String getName() {
     return "Иконки из ФС";
@@ -39,12 +36,12 @@ public class PlgIcons extends PI implements CommandListener {
   
   public final Object activate(int paramInt, Object[] paramArrayOfObject, Object paramObject) {
     if (paramInt == 0) {
-      d();
-      b();
-      this.a = (Display)paramObject;
-      Config.set((int[])request(16, null, null));
-    } else if (paramInt == 2) {
+      c();
       a();
+      this.a = (Display)paramObject;
+    } else if (paramInt == 2) {
+      this.b = new UI(this);
+      this.a.setCurrent((Displayable)this.b);
     } else if (paramInt == 40) {
       a(paramObject.toString());
       this.a.setCurrent((Displayable)this.b);
@@ -52,28 +49,7 @@ public class PlgIcons extends PI implements CommandListener {
     return null;
   }
   
-  public final void commandAction(Command paramCommand, Displayable paramDisplayable) {
-    if (paramCommand == List.SELECT_COMMAND) {
-      if (this.b.getCurrIndex() == 0) {
-        request(43, null, null);
-        return;
-      } 
-      c();
-      return;
-    } 
-    request(1, null, new Integer(0));
-    this.b = null;
-  }
-  
-  public final void a() {
-    this.b = new FormEx("Icons v0.1", null, new Command("Назад", 2, 0));
-    this.b.append("Выбрать иконки...", true);
-    this.b.append("По умолчанию", true);
-    this.b.setListener(this);
-    this.a.setCurrent((Displayable)this.b);
-  }
-  
-  private final void b() {
+  private final void a() {
     for (byte b = 0; b < 9; b++) {
       if (this.c[b].length() > 0)
         a(this.c[b], true); 
@@ -82,9 +58,9 @@ public class PlgIcons extends PI implements CommandListener {
   
   public final void a(String paramString) {
     paramString = paramString.substring(0, paramString.lastIndexOf('/'));
-    for (byte b = 0; b < d.length; b++)
-      a(paramString + d[b], true); 
-    e();
+    for (byte b = 0; b < this.d.length; b++)
+      a(paramString + this.d[b], true); 
+    d();
   }
   
   private final void a(String paramString, boolean paramBoolean) {
@@ -107,25 +83,25 @@ public class PlgIcons extends PI implements CommandListener {
     } 
   }
   
-  private final void c() {
+  private final void b() {
     for (byte b = 0; b < this.c.length; b++) {
       if (this.c[b].length() > 0) {
-        a(d[b], false);
+        a(this.d[b], false);
         this.c[b] = "";
       } 
     } 
-    e();
+    d();
   }
   
   private final int b(String paramString) {
-    for (byte b = 0; b < d.length; b++) {
-      if (paramString.endsWith(d[b]))
+    for (byte b = 0; b < this.d.length; b++) {
+      if (paramString.endsWith(this.d[b]))
         return b + 700; 
     } 
     return -1;
   }
   
-  private final void d() {
+  private final void c() {
     Object object;
     if ((object = request(7, null, null)) == null)
       return; 
@@ -140,7 +116,7 @@ public class PlgIcons extends PI implements CommandListener {
     } 
   }
   
-  private final void e() {
+  private final void d() {
     ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
     DataOutputStream dataOutputStream = new DataOutputStream(byteArrayOutputStream);
     try {
@@ -149,6 +125,53 @@ public class PlgIcons extends PI implements CommandListener {
         dataOutputStream.writeUTF(this.c[b]); 
     } catch (IOException iOException) {}
     request(6, null, byteArrayOutputStream.toByteArray());
+  }
+  
+  public static final void a(PlgIcons paramPlgIcons) {
+    paramPlgIcons.b();
+  }
+  
+  class UI extends Canvas {
+    public Font a;
+    
+    public int b;
+    
+    private final PlgIcons c;
+    
+    public UI(PlgIcons this$0) {
+      this.c = this$0;
+      this.a = Font.getFont(64, 0, 8);
+      this.b = this.a.getHeight();
+      setFullScreenMode(true);
+    }
+    
+    public final void paint(Graphics param1Graphics) {
+      param1Graphics.setColor(16777215);
+      param1Graphics.setFont(this.a);
+      param1Graphics.fillRect(0, 0, getWidth(), getHeight());
+      boolean bool = false;
+      param1Graphics.setColor(0);
+      param1Graphics.drawString("Иконки из ФС v0.1", 2, 0, 20);
+      param1Graphics.drawLine(0, this.b, getWidth(), this.b);
+      param1Graphics.drawString("1 - выбрать папку", 2, this.b, 20);
+      param1Graphics.drawString("2 - иконки по умолчанию", 2, this.b * 2, 20);
+      param1Graphics.drawString("0 - выход", 2, getHeight() - this.b, 20);
+    }
+    
+    public final void keyPressed(int param1Int) {
+      if (param1Int == 49) {
+        this.c.request(43, null, null);
+        return;
+      } 
+      if (param1Int == 50) {
+        PlgIcons.a(this.c);
+        return;
+      } 
+      if (param1Int == 48) {
+        this.c.request(1, null, new Integer(0));
+        this.c.b = null;
+      } 
+    }
   }
 }
 
