@@ -1,4 +1,4 @@
-![изображение](https://github.com/ma3rxofficial/bitbybyte-locid/assets/118477698/6d3df70b-0358-41da-92aa-1f019f71c0e7)<div id="contacts" align="center">
+<div id="contacts" align="center">
     <br/>
     <h1>LocID BitByByteEdition</h1>
 </div>
@@ -64,11 +64,9 @@
     <h1>🌏 Полезные ссылки</h1>
 </div>
 
-[Последний релиз](https://github.com/ma3rxofficial/bitbybyte-locid/releases/tag/0.1.2)
-
-[KICQ](https://kicq.ru)
-
-[Народное Достояние Рунета](https://narodweb.ru)
+- [Последний релиз](https://github.com/ma3rxofficial/bitbybyte-locid/releases/tag/0.1.2)
+- [KICQ](https://kicq.ru)
+- [Народное Достояние Рунета](https://narodweb.ru)
 
 <div id="contacts" align="center">
     <br/>
