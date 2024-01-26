@@ -45,7 +45,7 @@ public class PlgVkontakte extends PI implements CommandListener {
   
   private int r = 0;
   
-  private String s = "http://pda.vkontakte.ru/";
+  private String s = "http://vepurovk.xyz";
   
   private Display t;
   
